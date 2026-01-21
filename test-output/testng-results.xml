@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-20T18:40:24 MST" name="Default suite" finished-at="2026-01-20T18:40:35 MST" duration-ms="11360">
+    <groups>
+    </groups>
+    <test started-at="2026-01-20T18:40:24 MST" name="Default test" finished-at="2026-01-20T18:40:35 MST" duration-ms="11360">
+      <class name="naveenseleniumtests.projects.AppTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:naveenseleniumtests.projects.AppTest@692f203f]" started-at="2026-01-20T18:40:24 MST" name="launchApplication" finished-at="2026-01-20T18:40:29 MST" duration-ms="5765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="ValidateE2Eflow(java.lang.reflect.Method)[pri:0, instance:naveenseleniumtests.projects.AppTest@692f203f]" started-at="2026-01-20T18:40:29 MST" name="ValidateE2Eflow" finished-at="2026-01-20T18:40:35 MST" duration-ms="5464" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void naveenseleniumtests.projects.AppTest.ValidateE2Eflow(java.lang.reflect.Method) throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateE2Eflow -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:naveenseleniumtests.projects.AppTest@692f203f]" started-at="2026-01-20T18:40:35 MST" name="quitDriver" finished-at="2026-01-20T18:40:35 MST" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- naveenseleniumtests.projects.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
