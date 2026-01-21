@@ -37,7 +37,8 @@ public class AppTest extends BaseTests {
 		ConfirmationPage confPage = new ConfirmationPage(driver);
 		confPage.validateProductOnFinalPage(testData.get(0).get(3));
 		
-		System.out.println("Successfully concluded the test");
+		System.out.println("Successfully concluded the test from eclipse");
+		
     }
 
 	@Test
